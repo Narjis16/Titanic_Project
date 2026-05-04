@@ -29,5 +29,3 @@ How to Run
    Author
    Narjis Fatima - Student of Data Science
 
-## Author
-[Your Name] - Data Science Student
