@@ -26,6 +26,7 @@ How to Run
 1. Open in Google Colab or Jupyter Notebook
 2. Run all cells sequentially
 3. View accuracy output
-   Author
-   Narjis Fatima - Student of Data Science
+   
+Author
+Narjis Fatima - Student of Data Science
 
